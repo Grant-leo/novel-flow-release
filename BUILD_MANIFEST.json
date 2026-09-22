@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.1",
-  "commit": "95a204d9ab213ad1b52fedf7b6b729370aa6a6b7",
-  "inputHash": "6f023dad81fd5c58b5a7174c8941def545599b6d8d8e7905a1634fe8a99778ee",
+  "version": "0.2.2",
+  "commit": "db4ed8d3e392c88f36d8b1881ee94bd47176d896",
+  "inputHash": "8455c68f7218ff59f78d0fd1f33958194834ec4de94fcddf939c12c7faea330f",
   "dirty": false,
-  "buildId": "95a204d9ab21-6f023dad81fd"
+  "buildId": "db4ed8d3e392-8455c68f7218"
 }
