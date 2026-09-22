@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "build": {
+    "schemaVersion": 1,
+    "version": "0.2.1",
+    "commit": "95a204d9ab213ad1b52fedf7b6b729370aa6a6b7",
+    "inputHash": "6f023dad81fd5c58b5a7174c8941def545599b6d8d8e7905a1634fe8a99778ee",
+    "dirty": false,
+    "buildId": "95a204d9ab21-6f023dad81fd"
+  },
+  "platform": "windows-x86_64",
+  "installer": {
+    "name": "NovelFlow_Trial_0.2.1_x64-setup.exe",
+    "kind": "nsis",
+    "url": "https://raw.githubusercontent.com/Grant-leo/novel-flow-release/main/NovelFlow_Trial_0.2.1_x64-setup.exe",
+    "size": 12886900,
+    "sha256": "96ccfde26cc097d6d7e07009d0b50bf63be30970bf0deb9f7c8c28f1cd68e7e0",
+    "signatureSha256": "be6c48bb42d8066844596e9701c6043c331529e785e1b3483f416ae8f0ce4a6c"
+  },
+  "executableSha256": "8514cb52f81039f83f323f20c254e3ddfc6155494d08e771325a8dbc205b3cfb",
+  "publicKeySha256": "80e9a25a9c880bb16c8204d4a2e0ca8593912e49c2dee26c3c2fb36f79584932"
+}
